@@ -1,0 +1,90 @@
+
+Precision of run 1 from engine A is: 0.40
+Recall of run 1 from engine A is: 0.80
+P@5 of run 1 from engine A is: 0.40
+P@R=0.5 of run 1 from engine A is: 0.55
+Average Precision of run 1 from engine A is: 0.44
+Inverted index output of 11 Precision values of run 1 from engine A is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0 	 0.4 	 0.4 	 0.55 	 0.55 	 0.55 	 0.55 	 0.67 	 1.0 	 1.0
+
+Precision of run 1 from engine B is: 0.40
+Recall of run 1 from engine B is: 0.53
+P@5 of run 1 from engine B is: 0.60
+P@R=0.5 of run 1 from engine B is: 0.42
+Average Precision of run 1 from engine B is: 0.32
+Inverted index output of 11 Precision values of run 1 from engine B is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0 	 0 	 0 	 0 	 0.42 	 0.47 	 0.47 	 0.75 	 0.75 	 1.0
+
+Precision of run 1 from engine C is: 0.35
+Recall of run 1 from engine C is: 0.70
+P@5 of run 1 from engine C is: 0.00
+P@R=0.5 of run 1 from engine C is: 0.35
+Average Precision of run 1 from engine C is: 0.18
+Inverted index output of 11 Precision values of run 1 from engine C is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0 	 0 	 0.35 	 0.35 	 0.35 	 0.35 	 0.35 	 0.35 	 0.35 	 0.35
+
+Precision of run 2 from engine A is: 0.45
+Recall of run 2 from engine A is: 0.90
+P@5 of run 2 from engine A is: 0.80
+P@R=0.5 of run 2 from engine A is: 0.56
+Average Precision of run 2 from engine A is: 0.55
+Inverted index output of 11 Precision values of run 2 from engine A is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0.47 	 0.47 	 0.47 	 0.47 	 0.56 	 0.8 	 0.8 	 0.8 	 1.0 	 1.0
+
+Precision of run 2 from engine B is: 0.35
+Recall of run 2 from engine B is: 0.58
+P@5 of run 2 from engine B is: 0.20
+P@R=0.5 of run 2 from engine B is: 0.38
+Average Precision of run 2 from engine B is: 0.26
+Inverted index output of 11 Precision values of run 2 from engine B is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0 	 0 	 0 	 0 	 0.38 	 0.38 	 0.38 	 0.38 	 0.38 	 1.0
+
+Precision of run 2 from engine C is: 0.50
+Recall of run 2 from engine C is: 0.91
+P@5 of run 2 from engine C is: 0.40
+P@R=0.5 of run 2 from engine C is: 0.55
+Average Precision of run 2 from engine C is: 0.44
+Inverted index output of 11 Precision values of run 2 from engine C is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0.5 	 0.5 	 0.5 	 0.54 	 0.55 	 0.55 	 0.55 	 0.55 	 0.55 	 0.55
+
+Precision of run 3 from engine A is: 0.40
+Recall of run 3 from engine A is: 0.80
+P@5 of run 3 from engine A is: 0.40
+P@R=0.5 of run 3 from engine A is: 0.45
+Average Precision of run 3 from engine A is: 0.33
+Inverted index output of 11 Precision values of run 3 from engine A is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0 	 0.4 	 0.41 	 0.41 	 0.45 	 0.45 	 0.45 	 0.5 	 0.5 	 0.5
+
+Precision of run 3 from engine B is: 0.35
+Recall of run 3 from engine B is: 0.54
+P@5 of run 3 from engine B is: 0.20
+P@R=0.5 of run 3 from engine B is: 0.35
+Average Precision of run 3 from engine B is: 0.21
+Inverted index output of 11 Precision values of run 3 from engine B is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0 	 0 	 0 	 0 	 0 	 0.35 	 0.35 	 0.45 	 0.45 	 0.45 	 0.5
+
+Precision of run 3 from engine C is: 0.50
+Recall of run 3 from engine C is: 1.00
+P@5 of run 3 from engine C is: 0.20
+P@R=0.5 of run 3 from engine C is: 0.53
+Average Precision of run 3 from engine C is: 0.42
+Inverted index output of 11 Precision values of run 3 from engine C is:
+Recall Level 	 100% 	 90% 	 80% 	 70% 	 60% 	 50% 	 40% 	 30% 	 20% 	 10% 	 0%
+Precision 	 0.53 	 0.53 	 0.53 	 0.53 	 0.53 	 0.53 	 0.53 	 0.53 	 0.53 	 0.53 	 0.53
+
+Mean Average Precision of engine A is: 0.44
+Mean Average Precision of engine B is: 0.26
+Mean Average Precision of engine C is: 0.35
+
+Top three engines are:
+1. Engine A with Mean Average Precision 0.44 
+2. Engine C with Mean Average Precision 0.35 
+3. Engine B with Mean Average Precision 0.26 
